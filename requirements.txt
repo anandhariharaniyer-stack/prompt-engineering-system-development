@@ -1,0 +1,13 @@
+openai>=1.0.0
+numpy
+pandas
+panel
+python-dotenv
+flask
+flask-cors
+redlines
+SQLAlchemy
+pgvector
+pg8000
+requests
+tiktoken
